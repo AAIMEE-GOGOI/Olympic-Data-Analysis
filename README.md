@@ -3,7 +3,7 @@
 > 📊 An interactive data analysis and visualization web application exploring historical **Summer Olympic Games** data.
 
 <p align="center">
-  <a href="https://aaimee-gogoi-olympic-data-analysis-app-fgu1d.streamlit.app/">
+  <a href="https://aaimee-gogoi-olympic-data-analysis-app-fguu1d.streamlit.app/">
     🚀 <b>View Live Demo</b>
   </a>
 </p>
